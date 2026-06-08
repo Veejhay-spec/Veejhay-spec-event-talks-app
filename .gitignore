@@ -1,0 +1,8 @@
+# Gemini CLI temporary directory
+.gemini/
+
+# Node.js specific ignores (if this project were to expand into a full Node.js app)
+node_modules/
+npm-debug.log
+.env
+.DS_Store
